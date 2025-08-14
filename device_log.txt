@@ -3749,5 +3749,54 @@
       ]
     },
     "hospitalId": "1019707"
+  },
+  {
+    "timestamp": "八月 14, 2025 5:26:58 下午 GMT+08:00",
+    "operation": "USE",
+    "operator": "陈乐藩",
+    "deviceBefore": {
+      "name": "超声刀",
+      "deviceCode": "002",
+      "availableCount": 1,
+      "usedRecords": [
+        {
+          "住院号": "1019707",
+          "使用日期": "2025年08月14日",
+          "签名": "陈乐藩"
+        }
+      ]
+    },
+    "deviceAfter": {
+      "name": "超声刀",
+      "deviceCode": "002",
+      "availableCount": 1,
+      "usedRecords": [
+        {
+          "住院号": "1019707",
+          "使用日期": "2025年08月14日",
+          "签名": "陈乐藩"
+        }
+      ]
+    },
+    "hospitalId": "1019707"
+  },
+  {
+    "timestamp": "八月 14, 2025 5:26:58 下午 GMT+08:00",
+    "operation": "ARCHIVE",
+    "operator": "陈乐藩",
+    "deviceBefore": {
+      "name": "超声刀",
+      "deviceCode": "002",
+      "availableCount": 1,
+      "usedRecords": [
+        {
+          "住院号": "1019707",
+          "使用日期": "2025年08月14日",
+          "签名": "陈乐藩"
+        }
+      ]
+    },
+    "deviceAfter": null,
+    "hospitalId": null
   }
 ]
