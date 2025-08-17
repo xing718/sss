@@ -3348,5 +3348,55 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "周昭兰",
+      "patientId": "960708",
+      "roomNumber": "A3",
+      "doctorName": "刁喜财",
+      "surgeryName": "右侧全膝关节置换术",
+      "nurseName": "蚁晓祺",
+      "nurseLeader": "张坤明"
+    },
+    "qualityControl": {
+      "date": "2025年08月8日",
+      "types": [
+        "部位标识"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "否",
+              "remark": "手术部位标识没有标在相应的手术部位上"
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "否",
+              "remark": "手术部位标识未标在相应的手术部位上"
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
