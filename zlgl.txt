@@ -3194,5 +3194,50 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "崔金华",
+      "patientId": "1274155",
+      "roomNumber": "M3",
+      "doctorName": "黄钦生",
+      "surgeryName": "腹腔镜下胆囊切除术",
+      "nurseName": "蚁晓祺",
+      "nurseLeader": "张坤明"
+    },
+    "qualityControl": {
+      "date": "2025年08月6日",
+      "types": [
+        "标本留置"
+      ],
+      "content": {
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
