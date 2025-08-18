@@ -3798,5 +3798,17 @@
     },
     "deviceAfter": null,
     "hospitalId": null
+  },
+  {
+    "timestamp": "八月 18, 2025 11:25:08 上午 GMT+08:00",
+    "operation": "ADD",
+    "operator": "胡晓兴",
+    "deviceBefore": null,
+    "deviceAfter": {
+      "name": "马里兰",
+      "deviceCode": "0022",
+      "availableCount": 14,
+      "usedRecords": []
+    }
   }
 ]
