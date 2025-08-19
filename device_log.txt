@@ -4234,5 +4234,35 @@
       ]
     },
     "hospitalId": "1276244"
+  },
+  {
+    "timestamp": "八月 19, 2025 12:54:22 下午 GMT+08:00",
+    "operation": "USE",
+    "operator": "黄晓帆",
+    "deviceBefore": {
+      "name": "马里兰",
+      "deviceCode": "0022",
+      "availableCount": 14,
+      "usedRecords": [
+        {
+          "住院号": "1276244",
+          "使用日期": "2025年08月19日",
+          "签名": "黄晓帆"
+        }
+      ]
+    },
+    "deviceAfter": {
+      "name": "马里兰",
+      "deviceCode": "0022",
+      "availableCount": 14,
+      "usedRecords": [
+        {
+          "住院号": "1276244",
+          "使用日期": "2025年08月19日",
+          "签名": "黄晓帆"
+        }
+      ]
+    },
+    "hospitalId": "1276244"
   }
 ]
