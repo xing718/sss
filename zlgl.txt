@@ -6067,5 +6067,50 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈义深",
+      "patientId": "1277587",
+      "roomNumber": "B1",
+      "doctorName": "吴增城",
+      "surgeryName": "腹腔镜探查+小肠部分切除术",
+      "nurseName": "黄泽丞",
+      "nurseLeader": "张坤明"
+    },
+    "qualityControl": {
+      "date": "2025年08月20日",
+      "types": [
+        "标本留置"
+      ],
+      "content": {
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
