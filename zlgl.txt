@@ -6837,5 +6837,50 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈章义",
+      "patientId": "1119852",
+      "roomNumber": "A6",
+      "doctorName": "陈少川",
+      "surgeryName": "前列腺电切",
+      "nurseName": "池书炜",
+      "nurseLeader": "蔡婉嘉"
+    },
+    "qualityControl": {
+      "date": "2025年08月26日",
+      "types": [
+        "标本留置"
+      ],
+      "content": {
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
