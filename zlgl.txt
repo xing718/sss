@@ -6392,5 +6392,60 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "\n朱洁文",
+      "patientId": "1276456",
+      "roomNumber": "A8",
+      "doctorName": "张育峰",
+      "surgeryName": "髌骨修补",
+      "nurseName": "黄洁",
+      "nurseLeader": "蔡婉嘉"
+    },
+    "qualityControl": {
+      "date": "2025年08月26日",
+      "types": [
+        "体位摆置"
+      ],
+      "content": {
+        "position": {
+          "name": "体位摆置",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "否",
+              "remark": "不需要"
+            }
+          }
+        }
+      }
+    }
   }
 ]
