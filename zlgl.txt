@@ -6347,5 +6347,50 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "\n朱洁文",
+      "patientId": "1276456",
+      "roomNumber": "A8",
+      "doctorName": "张育峰",
+      "surgeryName": "髌骨修补",
+      "nurseName": "黄洁",
+      "nurseLeader": "蔡婉嘉"
+    },
+    "qualityControl": {
+      "date": "2025年08月26日",
+      "types": [
+        "抗生素"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "否",
+              "remark": "不用追加"
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
