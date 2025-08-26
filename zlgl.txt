@@ -6242,5 +6242,60 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "\n朱洁文",
+      "patientId": "1276456",
+      "roomNumber": "A8",
+      "doctorName": "张育峰",
+      "surgeryName": "髌骨修补",
+      "nurseName": "黄洁",
+      "nurseLeader": "蔡婉嘉"
+    },
+    "qualityControl": {
+      "date": "2025年08月26日",
+      "types": [
+        "患者身份"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "否",
+              "remark": "无输血"
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "否",
+              "remark": "无标本"
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
