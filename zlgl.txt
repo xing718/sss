@@ -7301,5 +7301,156 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈伟涵",
+      "patientId": "1278357",
+      "roomNumber": "M2",
+      "doctorName": "洪世宏",
+      "surgeryName": "双侧扁桃体等离子摘除术",
+      "nurseName": "陈坚锋",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2025年08月27日",
+      "types": [
+        "患者身份",
+        "体位摆置",
+        "标本留置",
+        "文书书写"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
