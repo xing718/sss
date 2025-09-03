@@ -9953,5 +9953,67 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈锦娜",
+      "patientId": "1279575",
+      "roomNumber": "B8",
+      "doctorName": "庄如华",
+      "surgeryName": "腹腔镜下全子宫切除术+双侧输卵管切除术",
+      "nurseName": "黄泽丞/黄洁",
+      "nurseLeader": "朱瑞迎"
+    },
+    "qualityControl": {
+      "date": "2025年09月03日",
+      "types": [
+        "安全核查",
+        "物品清点"
+      ],
+      "content": {
+        "check": {
+          "name": "安全核查",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、核查时机规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、核对流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、核查项目填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、按要求完成签名",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "item": {
+          "name": "物品清点",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "否",
+              "remark": "腔镜手术器械未清点"
+            }
+          }
+        }
+      }
+    }
   }
 ]
