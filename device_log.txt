@@ -8851,5 +8851,17 @@
       "availableCount": 10,
       "usedRecords": []
     }
+  },
+  {
+    "timestamp": "九月 4, 2025 11:05:55 上午 GMT+08:00",
+    "operation": "ADD",
+    "operator": "许伟涛",
+    "deviceBefore": null,
+    "deviceAfter": {
+      "name": "永久电勾",
+      "deviceCode": "0160",
+      "availableCount": 1,
+      "usedRecords": []
+    }
   }
 ]
