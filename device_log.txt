@@ -8875,5 +8875,54 @@
       "availableCount": 10,
       "usedRecords": []
     }
+  },
+  {
+    "timestamp": "九月 4, 2025 3:37:20 下午 GMT+08:00",
+    "operation": "USE",
+    "operator": "许伟涛",
+    "deviceBefore": {
+      "name": "永久电勾",
+      "deviceCode": "0160",
+      "availableCount": 1,
+      "usedRecords": [
+        {
+          "住院号": "1279154",
+          "使用日期": "2025年09月04日",
+          "签名": "许伟涛"
+        }
+      ]
+    },
+    "deviceAfter": {
+      "name": "永久电勾",
+      "deviceCode": "0160",
+      "availableCount": 1,
+      "usedRecords": [
+        {
+          "住院号": "1279154",
+          "使用日期": "2025年09月04日",
+          "签名": "许伟涛"
+        }
+      ]
+    },
+    "hospitalId": "1279154"
+  },
+  {
+    "timestamp": "九月 4, 2025 3:37:20 下午 GMT+08:00",
+    "operation": "ARCHIVE",
+    "operator": "许伟涛",
+    "deviceBefore": {
+      "name": "永久电勾",
+      "deviceCode": "0160",
+      "availableCount": 1,
+      "usedRecords": [
+        {
+          "住院号": "1279154",
+          "使用日期": "2025年09月04日",
+          "签名": "许伟涛"
+        }
+      ]
+    },
+    "deviceAfter": null,
+    "hospitalId": null
   }
 ]
