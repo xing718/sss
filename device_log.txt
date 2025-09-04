@@ -8863,5 +8863,17 @@
       "availableCount": 1,
       "usedRecords": []
     }
+  },
+  {
+    "timestamp": "九月 4, 2025 11:11:26 上午 GMT+08:00",
+    "operation": "ADD",
+    "operator": "许伟涛",
+    "deviceBefore": null,
+    "deviceAfter": {
+      "name": "单极电剪",
+      "deviceCode": "0251",
+      "availableCount": 10,
+      "usedRecords": []
+    }
   }
 ]
