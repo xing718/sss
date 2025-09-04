@@ -6677,5 +6677,17 @@
         }
       ]
     }
+  },
+  {
+    "timestamp": "九月 4, 2025 10:08:11 上午 GMT+08:00",
+    "operation": "ADD",
+    "operator": "许伟涛",
+    "deviceBefore": null,
+    "deviceAfter": {
+      "name": "强力针持",
+      "deviceCode": "0083",
+      "availableCount": 10,
+      "usedRecords": []
+    }
   }
 ]
