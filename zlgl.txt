@@ -10545,5 +10545,124 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈奕添",
+      "patientId": "1279437",
+      "roomNumber": "A6",
+      "doctorName": "周奕洲",
+      "surgeryName": "前列腺穿刺活检术",
+      "nurseName": "杜柏杨",
+      "nurseLeader": "许伟涛"
+    },
+    "qualityControl": {
+      "date": "2025年09月05日",
+      "types": [
+        "患者身份",
+        "体位摆置",
+        "标本留置"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
