@@ -10026,5 +10026,17 @@
       ]
     },
     "hospitalId": "1279434"
+  },
+  {
+    "timestamp": "九月 8, 2025 10:12:11 上午 GMT+08:00",
+    "operation": "ADD",
+    "operator": "黄晓帆",
+    "deviceBefore": null,
+    "deviceAfter": {
+      "name": "永久电勾",
+      "deviceCode": "0051",
+      "availableCount": 10,
+      "usedRecords": []
+    }
   }
 ]
