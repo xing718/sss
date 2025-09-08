@@ -10038,5 +10038,35 @@
       "availableCount": 10,
       "usedRecords": []
     }
+  },
+  {
+    "timestamp": "九月 8, 2025 10:12:58 上午 GMT+08:00",
+    "operation": "USE",
+    "operator": "黄晓帆",
+    "deviceBefore": {
+      "name": "永久电勾",
+      "deviceCode": "0051",
+      "availableCount": 10,
+      "usedRecords": [
+        {
+          "住院号": "1279434",
+          "使用日期": "20250908",
+          "签名": "黄晓帆"
+        }
+      ]
+    },
+    "deviceAfter": {
+      "name": "永久电勾",
+      "deviceCode": "0051",
+      "availableCount": 10,
+      "usedRecords": [
+        {
+          "住院号": "1279434",
+          "使用日期": "20250908",
+          "签名": "黄晓帆"
+        }
+      ]
+    },
+    "hospitalId": "1279434"
   }
 ]
