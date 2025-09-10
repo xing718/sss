@@ -11063,5 +11063,53 @@
       ]
     },
     "hospitalId": "1278618"
+  },
+  {
+    "timestamp": "九月 10, 2025 11:45:39 上午 GMT+08:00",
+    "operation": "ADD",
+    "operator": "胡晓兴",
+    "deviceBefore": null,
+    "deviceAfter": {
+      "name": "有孔双极",
+      "deviceCode": "0068",
+      "availableCount": 14,
+      "usedRecords": []
+    }
+  },
+  {
+    "timestamp": "九月 10, 2025 11:46:50 上午 GMT+08:00",
+    "operation": "ADD",
+    "operator": "胡晓兴",
+    "deviceBefore": null,
+    "deviceAfter": {
+      "name": "有孔双极",
+      "deviceCode": "0030",
+      "availableCount": 14,
+      "usedRecords": []
+    }
+  },
+  {
+    "timestamp": "九月 10, 2025 11:47:29 上午 GMT+08:00",
+    "operation": "ADD",
+    "operator": "胡晓兴",
+    "deviceBefore": null,
+    "deviceAfter": {
+      "name": "永久电勾",
+      "deviceCode": "0020",
+      "availableCount": 10,
+      "usedRecords": []
+    }
+  },
+  {
+    "timestamp": "九月 10, 2025 11:48:07 上午 GMT+08:00",
+    "operation": "ADD",
+    "operator": "胡晓兴",
+    "deviceBefore": null,
+    "deviceAfter": {
+      "name": "永久电勾",
+      "deviceCode": "0029",
+      "availableCount": 10,
+      "usedRecords": []
+    }
   }
 ]
