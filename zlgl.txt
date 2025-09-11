@@ -11053,5 +11053,92 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "黄小梅",
+      "patientId": "1273194",
+      "roomNumber": "A1",
+      "doctorName": "徐可",
+      "surgeryName": "脑室分流术",
+      "nurseName": "林烁,林静莹",
+      "nurseLeader": "肖丹"
+    },
+    "qualityControl": {
+      "date": "2025年09月11日",
+      "types": [
+        "部位标识",
+        "体位摆置"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
