@@ -11301,5 +11301,65 @@
       ]
     },
     "hospitalId": "1280554"
+  },
+  {
+    "timestamp": "九月 11, 2025 12:33:21 下午 GMT+08:00",
+    "operation": "USE",
+    "operator": "胡晓兴",
+    "deviceBefore": {
+      "name": "永久电勾",
+      "deviceCode": "0029",
+      "availableCount": 10,
+      "usedRecords": [
+        {
+          "住院号": "1279116",
+          "使用日期": "2025年09月11日",
+          "签名": "胡晓兴"
+        }
+      ]
+    },
+    "deviceAfter": {
+      "name": "永久电勾",
+      "deviceCode": "0029",
+      "availableCount": 10,
+      "usedRecords": [
+        {
+          "住院号": "1279116",
+          "使用日期": "2025年09月11日",
+          "签名": "胡晓兴"
+        }
+      ]
+    },
+    "hospitalId": "1279116"
+  },
+  {
+    "timestamp": "九月 11, 2025 12:33:51 下午 GMT+08:00",
+    "operation": "USE",
+    "operator": "胡晓兴",
+    "deviceBefore": {
+      "name": "有孔双极",
+      "deviceCode": "0068",
+      "availableCount": 14,
+      "usedRecords": [
+        {
+          "住院号": "1279116",
+          "使用日期": "2025年09月11日",
+          "签名": "胡晓兴"
+        }
+      ]
+    },
+    "deviceAfter": {
+      "name": "有孔双极",
+      "deviceCode": "0068",
+      "availableCount": 14,
+      "usedRecords": [
+        {
+          "住院号": "1279116",
+          "使用日期": "2025年09月11日",
+          "签名": "胡晓兴"
+        }
+      ]
+    },
+    "hospitalId": "1279116"
   }
 ]
