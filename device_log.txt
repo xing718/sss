@@ -11695,5 +11695,35 @@
       ]
     },
     "hospitalId": "1280435"
+  },
+  {
+    "timestamp": "九月 12, 2025 2:21:42 下午 GMT+08:00",
+    "operation": "USE",
+    "operator": "黄晓帆",
+    "deviceBefore": {
+      "name": "单极电剪",
+      "deviceCode": "0251",
+      "availableCount": 10,
+      "usedRecords": [
+        {
+          "住院号": "1280435",
+          "使用日期": "2025年09月12日",
+          "签名": "黄晓帆"
+        }
+      ]
+    },
+    "deviceAfter": {
+      "name": "单极电剪",
+      "deviceCode": "0251",
+      "availableCount": 10,
+      "usedRecords": [
+        {
+          "住院号": "1280435",
+          "使用日期": "2025年09月12日",
+          "签名": "黄晓帆"
+        }
+      ]
+    },
+    "hospitalId": "1280435"
   }
 ]
