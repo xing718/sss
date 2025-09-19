@@ -646,5 +646,29 @@
     },
     "deviceAfter": null,
     "hospitalId": null
+  },
+  {
+    "timestamp": "九月 19, 2025 2:56:16 下午 GMT+08:00",
+    "operation": "ADD",
+    "operator": "胡晓兴",
+    "deviceBefore": null,
+    "deviceAfter": {
+      "name": "有孔双极",
+      "deviceCode": "0271",
+      "availableCount": 14,
+      "usedRecords": []
+    }
+  },
+  {
+    "timestamp": "九月 19, 2025 2:56:40 下午 GMT+08:00",
+    "operation": "ADD",
+    "operator": "胡晓兴",
+    "deviceBefore": null,
+    "deviceAfter": {
+      "name": "有孔双极",
+      "deviceCode": "0371",
+      "availableCount": 14,
+      "usedRecords": []
+    }
   }
 ]
