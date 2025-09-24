@@ -11852,5 +11852,95 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈泽贤",
+      "patientId": "1111853",
+      "roomNumber": "B8",
+      "doctorName": "方丹妹",
+      "surgeryName": "宫腔镜子宫内膜息肉电切术",
+      "nurseName": "杨春琴",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2025年09月24日",
+      "types": [
+        "标本留置"
+      ],
+      "content": {
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "否",
+              "remark": "标本液漏出"
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "庄才好",
+      "patientId": "1281737",
+      "roomNumber": "A9",
+      "doctorName": "李锐雄",
+      "surgeryName": "达芬奇机器人辅助胸腔镜右肺上叶后段切除术+纵隔淋巴结采样术",
+      "nurseName": "朱瑞迎",
+      "nurseLeader": "肖丹"
+    },
+    "qualityControl": {
+      "date": "2025年09月24日",
+      "types": [
+        "标本留置"
+      ],
+      "content": {
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "否",
+              "remark": "标本袋漏写\"右侧(R)\""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
