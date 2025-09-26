@@ -13349,5 +13349,82 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "刘净",
+      "patientId": "1279273",
+      "roomNumber": " A1",
+      "doctorName": "陈树鑫",
+      "surgeryName": "左膝关节镜",
+      "nurseName": "陈程",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2025年09月05日",
+      "types": [
+        "部位标识",
+        "抗生素"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
