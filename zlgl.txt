@@ -14493,5 +14493,50 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "林惠粧",
+      "patientId": "1283167",
+      "roomNumber": "B3",
+      "doctorName": "马佳宜",
+      "surgeryName": "宫腔镜子宫内膜息肉电切术",
+      "nurseName": "林涵",
+      "nurseLeader": "胡晓兴,陈坚锋"
+    },
+    "qualityControl": {
+      "date": "2025年09月28日",
+      "types": [
+        "标本留置"
+      ],
+      "content": {
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "否",
+              "remark": "标本液部分漏出"
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
