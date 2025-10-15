@@ -3676,5 +3676,54 @@
       ]
     },
     "hospitalId": "1250333"
+  },
+  {
+    "timestamp": "十月 15, 2025 11:17:26 上午 GMT+08:00",
+    "operation": "USE",
+    "operator": "黄晓帆",
+    "deviceBefore": {
+      "name": "超声刀",
+      "deviceCode": "004",
+      "availableCount": 1,
+      "usedRecords": [
+        {
+          "住院号": "1284384",
+          "使用日期": "2025年10月9日",
+          "签名": "黄晓帆"
+        }
+      ]
+    },
+    "deviceAfter": {
+      "name": "超声刀",
+      "deviceCode": "004",
+      "availableCount": 1,
+      "usedRecords": [
+        {
+          "住院号": "1284384",
+          "使用日期": "2025年10月9日",
+          "签名": "黄晓帆"
+        }
+      ]
+    },
+    "hospitalId": "1284384"
+  },
+  {
+    "timestamp": "十月 15, 2025 11:17:26 上午 GMT+08:00",
+    "operation": "ARCHIVE",
+    "operator": "黄晓帆",
+    "deviceBefore": {
+      "name": "超声刀",
+      "deviceCode": "004",
+      "availableCount": 1,
+      "usedRecords": [
+        {
+          "住院号": "1284384",
+          "使用日期": "2025年10月9日",
+          "签名": "黄晓帆"
+        }
+      ]
+    },
+    "deviceAfter": null,
+    "hospitalId": null
   }
 ]
