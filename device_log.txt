@@ -4159,5 +4159,44 @@
     },
     "deviceAfter": null,
     "hospitalId": null
+  },
+  {
+    "timestamp": "十月 16, 2025 10:12:52 上午 GMT+08:00",
+    "operation": "DELETE_RECORD",
+    "operator": "胡晓兴",
+    "deviceBefore": {
+      "name": "有孔双极",
+      "deviceCode": "0068",
+      "availableCount": 14,
+      "usedRecords": [
+        {
+          "住院号": "1279116",
+          "使用日期": "2025年09月11日",
+          "签名": "胡晓兴"
+        },
+        {
+          "住院号": "1281168",
+          "使用日期": "2025年09月17日",
+          "签名": "胡润喆"
+        }
+      ]
+    },
+    "deviceAfter": {
+      "name": "有孔双极",
+      "deviceCode": "0068",
+      "availableCount": 14,
+      "usedRecords": [
+        {
+          "住院号": "1279116",
+          "使用日期": "2025年09月11日",
+          "签名": "胡晓兴"
+        },
+        {
+          "住院号": "1281168",
+          "使用日期": "2025年09月17日",
+          "签名": "胡润喆"
+        }
+      ]
+    }
   }
 ]
