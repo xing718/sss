@@ -15873,5 +15873,50 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈春桐",
+      "patientId": "1285271",
+      "roomNumber": "A9",
+      "doctorName": "郑凯欣",
+      "surgeryName": "达芬奇机器人右上肺结节切除术",
+      "nurseName": "欧阳伊然,胡晓兴",
+      "nurseLeader": "许伟涛"
+    },
+    "qualityControl": {
+      "date": "2025年10月27日",
+      "types": [
+        "安全核查"
+      ],
+      "content": {
+        "check": {
+          "name": "安全核查",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、核查时机规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、核对流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、核查项目填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、按要求完成签名",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
