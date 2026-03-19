@@ -29418,5 +29418,6031 @@
         }
       }
     }
+  },
+  {
+    "patientInfo": {
+      "patientName": "张庆珊",
+      "patientId": "1048398",
+      "roomNumber": "B5",
+      "doctorName": "彭淮都",
+      "surgeryName": "腹腔镜部分肝切除术",
+      "nurseName": "李芝标",
+      "nurseLeader": "黄洽"
+    },
+    "qualityControl": {
+      "date": "2026年02月25日",
+      "types": [
+        "文书书写"
+      ],
+      "content": {
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "林玉珊",
+      "patientId": "1304918",
+      "roomNumber": "B5",
+      "doctorName": "彭淮都",
+      "surgeryName": "腹腔镜胆囊切除术",
+      "nurseName": "林汉君",
+      "nurseLeader": "黄洽"
+    },
+    "qualityControl": {
+      "date": "2026年02月25日",
+      "types": [
+        "文书书写"
+      ],
+      "content": {
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "邱洋琳",
+      "patientId": "1306333",
+      "roomNumber": "b4",
+      "doctorName": "黄泽鸿",
+      "surgeryName": "腹腔镜左疝囊高位结扎术",
+      "nurseName": "曹娟兰",
+      "nurseLeader": "肖丹"
+    },
+    "qualityControl": {
+      "date": "2026年02月25日",
+      "types": [
+        "物品清点",
+        "部位标识"
+      ],
+      "content": {
+        "item": {
+          "name": "物品清点",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、清点时机正确",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、洗手护士规范整理器械",
+              "value": "否",
+              "remark": "在手术器械框内进行用物清点"
+            },
+            "item5": {
+              "text": "5、遵循规律，逐项清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、遵循同步唱点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item7": {
+              "text": "7、遵循逐项即刻记录原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item8": {
+              "text": "8、术中添加物品即刻记录",
+              "value": "是",
+              "remark": ""
+            },
+            "item9": {
+              "text": "9、遵循原位清点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item10": {
+              "text": "10、检查物品完整性",
+              "value": "是",
+              "remark": ""
+            },
+            "item11": {
+              "text": "11、巡回护士复述清点结果",
+              "value": "是",
+              "remark": ""
+            },
+            "item12": {
+              "text": "12、敷料摊开检查完整性",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "许淑妍",
+      "patientId": "1306211",
+      "roomNumber": "a2",
+      "doctorName": "洪学谦",
+      "surgeryName": "左肱骨切开复位内固定术",
+      "nurseName": "倪云玲，林烁",
+      "nurseLeader": "肖丹"
+    },
+    "qualityControl": {
+      "date": "2026年02月25日",
+      "types": [
+        "患者身份",
+        "抗生素"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "纪伽乐",
+      "patientId": "1306574",
+      "roomNumber": "a8",
+      "doctorName": "黄少帆",
+      "surgeryName": "右副耳畸形",
+      "nurseName": "谢继华",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2026年02月26日",
+      "types": [
+        "体位摆置",
+        "文书书写"
+      ],
+      "content": {
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "李艾珍",
+      "patientId": "1245807",
+      "roomNumber": "a8",
+      "doctorName": "黄少帆",
+      "surgeryName": "右中指肿物",
+      "nurseName": "谢继华",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2026年02月26日",
+      "types": [
+        "安全核查",
+        "物品清点"
+      ],
+      "content": {
+        "check": {
+          "name": "安全核查",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、核查时机规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、核对流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、核查项目填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、按要求完成签名",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "item": {
+          "name": "物品清点",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、清点时机正确",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、洗手护士规范整理器械",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、遵循规律，逐项清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、遵循同步唱点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item7": {
+              "text": "7、遵循逐项即刻记录原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item8": {
+              "text": "8、术中添加物品即刻记录",
+              "value": "是",
+              "remark": ""
+            },
+            "item9": {
+              "text": "9、遵循原位清点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item10": {
+              "text": "10、检查物品完整性",
+              "value": "是",
+              "remark": ""
+            },
+            "item11": {
+              "text": "11、巡回护士复述清点结果",
+              "value": "是",
+              "remark": ""
+            },
+            "item12": {
+              "text": "12、敷料摊开检查完整性",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "林思杭",
+      "patientId": "1306628",
+      "roomNumber": "B5",
+      "doctorName": "刘棉洲",
+      "surgeryName": "左耳肿物切除术",
+      "nurseName": "陈妍儿",
+      "nurseLeader": "郑娟如"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "部位标识",
+        "标本留置"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "黄丽卿",
+      "patientId": "1306330",
+      "roomNumber": "B2",
+      "doctorName": "陈少川",
+      "surgeryName": "右输尿管肿物切除术",
+      "nurseName": "胡晓兴",
+      "nurseLeader": "郑娟如"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "标本留置",
+        "文书书写"
+      ],
+      "content": {
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "刘晓凡",
+      "patientId": "1306741",
+      "roomNumber": "A8",
+      "doctorName": "曾荣斌",
+      "surgeryName": "左颌面间隙感染切开引流术",
+      "nurseName": "谢继华",
+      "nurseLeader": "郑娟如"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "安全核查",
+        "患者身份"
+      ],
+      "content": {
+        "check": {
+          "name": "安全核查",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、核查时机规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、核对流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、核查项目填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、按要求完成签名",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "刘创隆",
+      "patientId": "1306438",
+      "roomNumber": "A6",
+      "doctorName": "刘国元",
+      "surgeryName": "经尿道前列腺电切术（TURP）",
+      "nurseName": "池术书炜",
+      "nurseLeader": "郑娟如"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "抗生素",
+        "文书书写"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "吴泽滨",
+      "patientId": "1305709",
+      "roomNumber": "A5",
+      "doctorName": "刘伟军",
+      "surgeryName": "右肱骨骨折切开复位内固定术",
+      "nurseName": "陈浩深,林玩庭",
+      "nurseLeader": "郑娟如"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "部位标识",
+        "文书书写"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "李映辉",
+      "patientId": "1306441",
+      "roomNumber": "A1",
+      "doctorName": "蔡史健",
+      "surgeryName": "肩关节镜袖修补术",
+      "nurseName": "林烁,翁瑶",
+      "nurseLeader": "郑娟如"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "部位标识",
+        "抗生素"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "否",
+              "remark": "签名时机不准确"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "王清珠",
+      "patientId": "1306677",
+      "roomNumber": "A3",
+      "doctorName": "蔡晓斌",
+      "surgeryName": "左人工股骨头置换术",
+      "nurseName": "翁妙航,陈李琪",
+      "nurseLeader": "郑娟如"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "体位摆置",
+        "文书书写"
+      ],
+      "content": {
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "姚楚钦",
+      "patientId": "1068086",
+      "roomNumber": "B4",
+      "doctorName": "蔡楚东",
+      "surgeryName": "腹腔镜胃间质瘤切除术",
+      "nurseName": "曹娟兰,林烁",
+      "nurseLeader": "郑娟如"
+    },
+    "qualityControl": {
+      "date": "2026年02月26日",
+      "types": [
+        "标本留置",
+        "文书书写"
+      ],
+      "content": {
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "否",
+              "remark": "手术时间大于2小时，未启用压疮评估单"
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "林伟平",
+      "patientId": "1073065",
+      "roomNumber": "B2",
+      "doctorName": "王小忠",
+      "surgeryName": "腹腔镜胆囊切除术(LC)",
+      "nurseName": "陈坚锋,王冬妮",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2026年02月26日",
+      "types": [
+        "标本留置",
+        "文书书写"
+      ],
+      "content": {
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "李丽如",
+      "patientId": "1041777",
+      "roomNumber": "A7",
+      "doctorName": "章克毅",
+      "surgeryName": "乙状结肠切除术",
+      "nurseName": "李雨泉，李芝标",
+      "nurseLeader": "朱瑞迎"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "患者身份",
+        "抗生素"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "吴景汉",
+      "patientId": "1306610",
+      "roomNumber": "A2",
+      "doctorName": "方忠民",
+      "surgeryName": "胸腔镜右侧肺大疱切除术",
+      "nurseName": "林涵,倪云玲",
+      "nurseLeader": "朱瑞迎"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "部位标识"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "许海填",
+      "patientId": "1305075",
+      "roomNumber": "B2",
+      "doctorName": "李拱瑜",
+      "surgeryName": "为肾透析的动静脉内瘘术",
+      "nurseName": "欧阳伊然",
+      "nurseLeader": "朱瑞迎"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "安全核查",
+        "部位标识"
+      ],
+      "content": {
+        "check": {
+          "name": "安全核查",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、核查时机规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、核对流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、核查项目填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、按要求完成签名",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "赖佩芳",
+      "patientId": "648250",
+      "roomNumber": "B5",
+      "doctorName": "彭淮都",
+      "surgeryName": "PPH",
+      "nurseName": "蔡梓敏",
+      "nurseLeader": "朱瑞迎"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "物品清点",
+        "体位摆置"
+      ],
+      "content": {
+        "item": {
+          "name": "物品清点",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、清点时机正确",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、洗手护士规范整理器械",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、遵循规律，逐项清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、遵循同步唱点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item7": {
+              "text": "7、遵循逐项即刻记录原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item8": {
+              "text": "8、术中添加物品即刻记录",
+              "value": "是",
+              "remark": ""
+            },
+            "item9": {
+              "text": "9、遵循原位清点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item10": {
+              "text": "10、检查物品完整性",
+              "value": "是",
+              "remark": ""
+            },
+            "item11": {
+              "text": "11、巡回护士复述清点结果",
+              "value": "是",
+              "remark": ""
+            },
+            "item12": {
+              "text": "12、敷料摊开检查完整性",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈海萍",
+      "patientId": "1306776",
+      "roomNumber": "B6",
+      "doctorName": "蔡晓丹",
+      "surgeryName": "宫腔镜检查术",
+      "nurseName": "洪潘琪",
+      "nurseLeader": "朱瑞迎"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "物品清点",
+        "体位摆置"
+      ],
+      "content": {
+        "item": {
+          "name": "物品清点",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、清点时机正确",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、洗手护士规范整理器械",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、遵循规律，逐项清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、遵循同步唱点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item7": {
+              "text": "7、遵循逐项即刻记录原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item8": {
+              "text": "8、术中添加物品即刻记录",
+              "value": "是",
+              "remark": ""
+            },
+            "item9": {
+              "text": "9、遵循原位清点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item10": {
+              "text": "10、检查物品完整性",
+              "value": "是",
+              "remark": ""
+            },
+            "item11": {
+              "text": "11、巡回护士复述清点结果",
+              "value": "是",
+              "remark": ""
+            },
+            "item12": {
+              "text": "12、敷料摊开检查完整性",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "张晓文",
+      "patientId": "1280796",
+      "roomNumber": "B6",
+      "doctorName": "郑春勤",
+      "surgeryName": "剖宫产术",
+      "nurseName": "林思婷,杨春琴",
+      "nurseLeader": "朱瑞迎"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "文书书写"
+      ],
+      "content": {
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "马少燕",
+      "patientId": "1306398",
+      "roomNumber": "B6",
+      "doctorName": "郑春勤",
+      "surgeryName": "剖宫产术",
+      "nurseName": "林思婷,杨春琴",
+      "nurseLeader": "朱瑞迎"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "文书书写"
+      ],
+      "content": {
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "黄玲儿",
+      "patientId": "1306620",
+      "roomNumber": "B5",
+      "doctorName": "金燕卿",
+      "surgeryName": "剖宫产术",
+      "nurseName": "洪潘琪,陈乐藩",
+      "nurseLeader": "朱瑞迎"
+    },
+    "qualityControl": {
+      "date": "2026年02月27日",
+      "types": [
+        "文书书写"
+      ],
+      "content": {
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "吴旭涛",
+      "patientId": "1258865",
+      "roomNumber": "A1",
+      "doctorName": "陈绪彪",
+      "surgeryName": "左侧肱骨近端骨折切开复位内固定术",
+      "nurseName": "陈宇,陈学前",
+      "nurseLeader": "郑娟如，许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月02日",
+      "types": [
+        "安全核查",
+        "抗生素"
+      ],
+      "content": {
+        "check": {
+          "name": "安全核查",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、核查时机规范",
+              "value": "否",
+              "remark": "手术医生未到位"
+            },
+            "item2": {
+              "text": "2、核对流程规范",
+              "value": "否",
+              "remark": "手术医生未到位"
+            },
+            "item3": {
+              "text": "3、核查项目填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、按要求完成签名",
+              "value": "否",
+              "remark": "术前医生未核对签名"
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "郑坚雄",
+      "patientId": "1305244",
+      "roomNumber": "A6",
+      "doctorName": "曹思哲",
+      "surgeryName": "左侧肾输尿管切除+膀胱部分切除术",
+      "nurseName": "杜柏杨,芮泳群",
+      "nurseLeader": "郑娟如，许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月02日",
+      "types": [
+        "物品清点",
+        "抗生素"
+      ],
+      "content": {
+        "item": {
+          "name": "物品清点",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、清点时机正确",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、洗手护士规范整理器械",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、遵循规律，逐项清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、遵循同步唱点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item7": {
+              "text": "7、遵循逐项即刻记录原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item8": {
+              "text": "8、术中添加物品即刻记录",
+              "value": "是",
+              "remark": ""
+            },
+            "item9": {
+              "text": "9、遵循原位清点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item10": {
+              "text": "10、检查物品完整性",
+              "value": "是",
+              "remark": ""
+            },
+            "item11": {
+              "text": "11、巡回护士复述清点结果",
+              "value": "是",
+              "remark": ""
+            },
+            "item12": {
+              "text": "12、敷料摊开检查完整性",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "杨晓生",
+      "patientId": "1191777",
+      "roomNumber": "A1",
+      "doctorName": "陈超",
+      "surgeryName": "胸椎骨折切开复位内固定术",
+      "nurseName": "陈程,吴丹萍",
+      "nurseLeader": "郑娟如，许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月02日",
+      "types": [
+        "抗生素",
+        "体位摆置"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "吴佩真",
+      "patientId": "1306867",
+      "roomNumber": "B4",
+      "doctorName": "刘棉洲",
+      "surgeryName": "腹腔镜左侧腹股沟疝修补术",
+      "nurseName": "曹娟兰, 廖培锴, ",
+      "nurseLeader": "郑娟如，许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月02日",
+      "types": [
+        "患者身份",
+        "部位标识"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        },
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "周利吟",
+      "patientId": "1307635",
+      "roomNumber": "B4",
+      "doctorName": "蔡婉虹",
+      "surgeryName": "腹腔镜下全子宫切除术+双侧附件切除术",
+      "nurseName": "陈浩深",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "标本留置",
+        "文书书写"
+      ],
+      "content": {
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈丰城",
+      "patientId": "1307624",
+      "roomNumber": "B4",
+      "doctorName": "蔡婉虹",
+      "surgeryName": "腹腔镜乙状结肠部分切除术",
+      "nurseName": "陈浩深，彭敏生",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "标本留置",
+        "文书书写"
+      ],
+      "content": {
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "郑文婷",
+      "patientId": "1307592",
+      "roomNumber": "B2",
+      "doctorName": "方丹妹",
+      "surgeryName": "剖宫产术",
+      "nurseName": "陈钟晴",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "患者身份",
+        "抗生素"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "蔡沛英",
+      "patientId": "1393193",
+      "roomNumber": "B3",
+      "doctorName": "谢德金",
+      "surgeryName": "腹腔镜胃癌根治术",
+      "nurseName": "蔡婉嘉,王键林",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "物品清点",
+        "体位摆置"
+      ],
+      "content": {
+        "item": {
+          "name": "物品清点",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、清点时机正确",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、洗手护士规范整理器械",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、遵循规律，逐项清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、遵循同步唱点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item7": {
+              "text": "7、遵循逐项即刻记录原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item8": {
+              "text": "8、术中添加物品即刻记录",
+              "value": "是",
+              "remark": ""
+            },
+            "item9": {
+              "text": "9、遵循原位清点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item10": {
+              "text": "10、检查物品完整性",
+              "value": "是",
+              "remark": ""
+            },
+            "item11": {
+              "text": "11、巡回护士复述清点结果",
+              "value": "是",
+              "remark": ""
+            },
+            "item12": {
+              "text": "12、敷料摊开检查完整性",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "李胜",
+      "patientId": "1307352",
+      "roomNumber": "B4",
+      "doctorName": "李颖",
+      "surgeryName": "腹腔镜疝修补术（TAPP/TEP）",
+      "nurseName": "黄洽，曹娟兰",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "体位摆置",
+        "文书书写"
+      ],
+      "content": {
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "林木清",
+      "patientId": "833305",
+      "roomNumber": "A6",
+      "doctorName": "陈少川",
+      "surgeryName": "经尿道膀胱肿瘤电切术（TURBT）",
+      "nurseName": "池书炜",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "抗生素",
+        "体位摆置"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "郑丽英",
+      "patientId": "991569",
+      "roomNumber": "A7",
+      "doctorName": "吴增城",
+      "surgeryName": "腹腔镜胆囊切除术(LC)",
+      "nurseName": "李雨泉",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "安全核查",
+        "物品清点"
+      ],
+      "content": {
+        "check": {
+          "name": "安全核查",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、核查时机规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、核对流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、核查项目填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、按要求完成签名",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "item": {
+          "name": "物品清点",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、清点时机正确",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、洗手护士规范整理器械",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、遵循规律，逐项清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、遵循同步唱点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item7": {
+              "text": "7、遵循逐项即刻记录原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item8": {
+              "text": "8、术中添加物品即刻记录",
+              "value": "是",
+              "remark": ""
+            },
+            "item9": {
+              "text": "9、遵循原位清点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item10": {
+              "text": "10、检查物品完整性",
+              "value": "是",
+              "remark": ""
+            },
+            "item11": {
+              "text": "11、巡回护士复述清点结果",
+              "value": "是",
+              "remark": ""
+            },
+            "item12": {
+              "text": "12、敷料摊开检查完整性",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈科弟",
+      "patientId": "1307180",
+      "roomNumber": "A9",
+      "doctorName": "刁喜财",
+      "surgeryName": "右侧人工股骨头置换术",
+      "nurseName": "芮泳群,陈程",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "部位标识",
+        "抗生素"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "方乙芳",
+      "patientId": "1307571",
+      "roomNumber": "A10",
+      "doctorName": "陈颖高",
+      "surgeryName": "左侧开颅去骨瓣减压术",
+      "nurseName": "吴广达,郑佳蔚",
+      "nurseLeader": "胡晓兴"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "物品清点",
+        "文书书写"
+      ],
+      "content": {
+        "item": {
+          "name": "物品清点",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、清点时机正确",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、洗手护士规范整理器械",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、遵循规律，逐项清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、遵循同步唱点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item7": {
+              "text": "7、遵循逐项即刻记录原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item8": {
+              "text": "8、术中添加物品即刻记录",
+              "value": "是",
+              "remark": ""
+            },
+            "item9": {
+              "text": "9、遵循原位清点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item10": {
+              "text": "10、检查物品完整性",
+              "value": "是",
+              "remark": ""
+            },
+            "item11": {
+              "text": "11、巡回护士复述清点结果",
+              "value": "是",
+              "remark": ""
+            },
+            "item12": {
+              "text": "12、敷料摊开检查完整性",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈玉英",
+      "patientId": "918561",
+      "roomNumber": "B6",
+      "doctorName": "A2162",
+      "surgeryName": "腹腔镜胆囊切除术(LC)",
+      "nurseName": "杨璇娜,王键林",
+      "nurseLeader": "郑娟如，许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "患者身份",
+        "抗生素"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈再钦",
+      "patientId": "1306366",
+      "roomNumber": "B5",
+      "doctorName": "A941",
+      "surgeryName": "胸腔镜右肺结节切除术",
+      "nurseName": "林玩庭,倪云玲",
+      "nurseLeader": "郑娟如，许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "患者身份",
+        "抗生素"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "袁锡忠",
+      "patientId": "1307391",
+      "roomNumber": "B4",
+      "doctorName": "A626",
+      "surgeryName": "腹腔镜疝修补术（TAPP/TEP）",
+      "nurseName": "吴广达,胡润喆",
+      "nurseLeader": "郑娟如，许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "安全核查"
+      ],
+      "content": {
+        "check": {
+          "name": "安全核查",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、核查时机规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、核对流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、核查项目填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、按要求完成签名",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "袁锡忠",
+      "patientId": "1307391",
+      "roomNumber": "B4",
+      "doctorName": "A626",
+      "surgeryName": "腹腔镜疝修补术（TAPP/TEP）",
+      "nurseName": "吴广达,胡润喆",
+      "nurseLeader": "郑娟如，许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月04日",
+      "types": [
+        "部位标识"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "史宝玉",
+      "patientId": "1307639",
+      "roomNumber": "A6",
+      "doctorName": "周奕洲",
+      "surgeryName": "经尿道输尿管镜气压弹道碎石取石术",
+      "nurseName": "杜柏杨",
+      "nurseLeader": "许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月10日",
+      "types": [
+        "安全核查",
+        "体位摆置"
+      ],
+      "content": {
+        "check": {
+          "name": "安全核查",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、核查时机规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、核对流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、核查项目填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、按要求完成签名",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "郭巧娟",
+      "patientId": "1308280",
+      "roomNumber": "B4",
+      "doctorName": "黄泽鸿",
+      "surgeryName": "腹腔镜胆囊切除术(LC)",
+      "nurseName": "曹娟兰",
+      "nurseLeader": "郑娟如，许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月10日",
+      "types": [
+        "抗生素",
+        "文书书写"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "李锡河",
+      "patientId": "962911",
+      "roomNumber": "B5",
+      "doctorName": "赖伟松",
+      "surgeryName": "胸腔镜下肺叶切除术",
+      "nurseName": "倪云玲,陈学前",
+      "nurseLeader": "郑娟如，许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月10日",
+      "types": [
+        "物品清点",
+        "抗生素"
+      ],
+      "content": {
+        "item": {
+          "name": "物品清点",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、清点时机正确",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、洗手护士规范整理器械",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、遵循规律，逐项清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、遵循同步唱点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item7": {
+              "text": "7、遵循逐项即刻记录原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item8": {
+              "text": "8、术中添加物品即刻记录",
+              "value": "是",
+              "remark": ""
+            },
+            "item9": {
+              "text": "9、遵循原位清点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item10": {
+              "text": "10、检查物品完整性",
+              "value": "是",
+              "remark": ""
+            },
+            "item11": {
+              "text": "11、巡回护士复述清点结果",
+              "value": "是",
+              "remark": ""
+            },
+            "item12": {
+              "text": "12、敷料摊开检查完整性",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈创加",
+      "patientId": "1307925",
+      "roomNumber": "A7",
+      "doctorName": "沈辉扬",
+      "surgeryName": "锁骨骨折切开复位内固定术",
+      "nurseName": "陈佳欣,杨春琴",
+      "nurseLeader": "肖丹"
+    },
+    "qualityControl": {
+      "date": "2026年03月10日",
+      "types": [
+        "抗生素",
+        "体位摆置"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "沈广益",
+      "patientId": "967722",
+      "roomNumber": "J1",
+      "doctorName": "黄锐洪",
+      "surgeryName": "右下唇溃疡切除术",
+      "nurseName": "林泽萍",
+      "nurseLeader": "肖丹"
+    },
+    "qualityControl": {
+      "date": "2026年03月10日",
+      "types": [
+        "物品清点",
+        "患者身份"
+      ],
+      "content": {
+        "item": {
+          "name": "物品清点",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、清点时机正确",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、洗手护士规范整理器械",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、遵循规律，逐项清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、遵循同步唱点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item7": {
+              "text": "7、遵循逐项即刻记录原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item8": {
+              "text": "8、术中添加物品即刻记录",
+              "value": "是",
+              "remark": ""
+            },
+            "item9": {
+              "text": "9、遵循原位清点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item10": {
+              "text": "10、检查物品完整性",
+              "value": "是",
+              "remark": ""
+            },
+            "item11": {
+              "text": "11、巡回护士复述清点结果",
+              "value": "是",
+              "remark": ""
+            },
+            "item12": {
+              "text": "12、敷料摊开检查完整性",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "王楚珍",
+      "patientId": "1308431",
+      "roomNumber": "A3",
+      "doctorName": "郑康伟",
+      "surgeryName": "右侧人工股骨头置换术",
+      "nurseName": "廖春苑,陈坚锋",
+      "nurseLeader": "肖丹"
+    },
+    "qualityControl": {
+      "date": "2026年03月10日",
+      "types": [
+        "抗生素",
+        "体位摆置"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "否",
+              "remark": "用药未及时签红名"
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "吴喜达",
+      "patientId": "1069814",
+      "roomNumber": "A5",
+      "doctorName": "郑超",
+      "surgeryName": "内镜下腰椎髓核切除术",
+      "nurseName": "陈浩深,陈广荃",
+      "nurseLeader": "肖丹"
+    },
+    "qualityControl": {
+      "date": "2026年03月10日",
+      "types": [
+        "抗生素",
+        "体位摆置"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": false,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "否",
+              "remark": "用药后未及时签红名"
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "吴喜达",
+      "patientId": "1303445",
+      "roomNumber": "A5",
+      "doctorName": "吴晓滨",
+      "surgeryName": "左胫骨内固定术",
+      "nurseName": "李雨泉",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年02月04日",
+      "types": [
+        "患者身份",
+        "抗生素"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈泽练",
+      "patientId": "1303780",
+      "roomNumber": "A2",
+      "doctorName": "林海彬",
+      "surgeryName": "胸腔镜下交感神经链切断术（手汗症治疗）",
+      "nurseName": "陈友洵,陈乐藩",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年02月04日",
+      "types": [
+        "部位标识",
+        "体位摆置"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "辛野",
+      "patientId": "1303615",
+      "roomNumber": "A5",
+      "doctorName": "林晓旭",
+      "surgeryName": "左关节镜下前交叉韧带重建术（ACLR）",
+      "nurseName": "陈浩深,郑佳蔚",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年02月04日",
+      "types": [
+        "部位标识",
+        "抗生素"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "周巧銮",
+      "patientId": "1308791",
+      "roomNumber": "A1",
+      "doctorName": "洪笃开",
+      "surgeryName": "椎体成形术（PKP）",
+      "nurseName": "郑佳蔚",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月12日",
+      "types": [
+        "体位摆置",
+        "文书书写"
+      ],
+      "content": {
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "薛少书",
+      "patientId": "1308452",
+      "roomNumber": "A2",
+      "doctorName": "邱旭龙",
+      "surgeryName": "荧光胸腔镜左肺段切除术+纵隔淋巴结采样术",
+      "nurseName": "陈乐藩,陈燕君",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月12日",
+      "types": [
+        "抗生素",
+        "体位摆置"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "王粉芝",
+      "patientId": "1308445",
+      "roomNumber": "A4",
+      "doctorName": "林棉龙",
+      "surgeryName": "ube椎管减压术",
+      "nurseName": "陈沛东，陈学前",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月12日",
+      "types": [
+        "物品清点",
+        "体位摆置"
+      ],
+      "content": {
+        "item": {
+          "name": "物品清点",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、清点时机正确",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、洗手护士规范整理器械",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、遵循规律，逐项清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、遵循同步唱点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item7": {
+              "text": "7、遵循逐项即刻记录原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item8": {
+              "text": "8、术中添加物品即刻记录",
+              "value": "是",
+              "remark": ""
+            },
+            "item9": {
+              "text": "9、遵循原位清点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item10": {
+              "text": "10、检查物品完整性",
+              "value": "是",
+              "remark": ""
+            },
+            "item11": {
+              "text": "11、巡回护士复述清点结果",
+              "value": "是",
+              "remark": ""
+            },
+            "item12": {
+              "text": "12、敷料摊开检查完整性",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "杨泽海",
+      "patientId": "639724",
+      "roomNumber": "A7",
+      "doctorName": "陈春雷",
+      "surgeryName": "右肩关节镜",
+      "nurseName": "欧阳伊然,林烁",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月12日",
+      "types": [
+        "部位标识",
+        "抗生素"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "郑开喜",
+      "patientId": "672984",
+      "roomNumber": "A8",
+      "doctorName": "杨松杰",
+      "surgeryName": "右股骨pfna",
+      "nurseName": "黄晓帆，林思婷",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月12日",
+      "types": [
+        "安全核查",
+        "抗生素"
+      ],
+      "content": {
+        "check": {
+          "name": "安全核查",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、核查时机规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、核对流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、核查项目填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、按要求完成签名",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈木来",
+      "patientId": "1296908",
+      "roomNumber": "A9",
+      "doctorName": "林晓生",
+      "surgeryName": "达芬奇机器人辅助胸腹腔镜食管癌三切口联合根治术",
+      "nurseName": "陈鸿,黄嘉淳",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月12日",
+      "types": [
+        "物品清点",
+        "体位摆置"
+      ],
+      "content": {
+        "item": {
+          "name": "物品清点",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、按规范进行物品清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、清点内容无遗漏",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、清点时机正确",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、洗手护士规范整理器械",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、遵循规律，逐项清点",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、遵循同步唱点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item7": {
+              "text": "7、遵循逐项即刻记录原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item8": {
+              "text": "8、术中添加物品即刻记录",
+              "value": "是",
+              "remark": ""
+            },
+            "item9": {
+              "text": "9、遵循原位清点原则",
+              "value": "是",
+              "remark": ""
+            },
+            "item10": {
+              "text": "10、检查物品完整性",
+              "value": "是",
+              "remark": ""
+            },
+            "item11": {
+              "text": "11、巡回护士复述清点结果",
+              "value": "是",
+              "remark": ""
+            },
+            "item12": {
+              "text": "12、敷料摊开检查完整性",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "林锡雄",
+      "patientId": "1308449",
+      "roomNumber": "A10",
+      "doctorName": "池泽湃",
+      "surgeryName": "左侧睾丸鞘膜翻转",
+      "nurseName": "肖佳琪",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月12日",
+      "types": [
+        "部位标识",
+        "文书书写"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "许昕昱",
+      "patientId": "1305859",
+      "roomNumber": "A10",
+      "doctorName": "洪旭伟",
+      "surgeryName": "右输尿管软镜碎石取石术",
+      "nurseName": "肖佳琪",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月13日",
+      "types": [
+        "患者身份",
+        "部位标识"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        },
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "王贤禄",
+      "patientId": "1224246",
+      "roomNumber": "A1",
+      "doctorName": "陈超",
+      "surgeryName": "椎体成形术（PKP）",
+      "nurseName": "王芯,陈浩深",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月13日",
+      "types": [
+        "体位摆置",
+        "文书书写"
+      ],
+      "content": {
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "吴名忠",
+      "patientId": "1308399",
+      "roomNumber": "A2",
+      "doctorName": "李启杰",
+      "surgeryName": "荧光胸腔镜右肺段切除术+纵隔淋巴结采样术",
+      "nurseName": "陈妍儿,倪云玲",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月13日",
+      "types": [
+        "部位标识",
+        "抗生素"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "王木心",
+      "patientId": "1308051",
+      "roomNumber": "A5",
+      "doctorName": "陈展鹏",
+      "surgeryName": "椎间孔镜腰椎间盘摘除术",
+      "nurseName": "郑佳蔚,谢继华",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月13日",
+      "types": [
+        "抗生素",
+        "文书书写"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "林永佳",
+      "patientId": "1308734",
+      "roomNumber": "A5",
+      "doctorName": "蔡史健",
+      "surgeryName": "右侧膝关节镜后交叉韧带重建",
+      "nurseName": "杨晓程,李泽璇",
+      "nurseLeader": "郑娟如"
+    },
+    "qualityControl": {
+      "date": "2026年03月13日",
+      "types": [
+        "部位标识",
+        "抗生素"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈桐欣",
+      "patientId": "1308623",
+      "roomNumber": "A7",
+      "doctorName": "黄晋",
+      "surgeryName": "右侧膝关节镜前交叉韧带重建",
+      "nurseName": "张泽楷,陈李琪",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月13日",
+      "types": [
+        "部位标识",
+        "抗生素"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "谢沛权",
+      "patientId": "1308894",
+      "roomNumber": "A8",
+      "doctorName": "林晓旭",
+      "surgeryName": "左股骨清创闭合复位内固定术",
+      "nurseName": "胡晓青,陈燕君",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月13日",
+      "types": [
+        "部位标识",
+        "抗生素"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈歆哲",
+      "patientId": "1299462",
+      "roomNumber": "A9",
+      "doctorName": "郑凯欣",
+      "surgeryName": "达芬奇机器人辅助胸腔镜右中肺段切除术+纵隔淋巴结采样术",
+      "nurseName": "黄晓帆,欧阳伊然",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月13日",
+      "types": [
+        "抗生素",
+        "体位摆置"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "林春亮",
+      "patientId": "826800",
+      "roomNumber": "B3",
+      "doctorName": "陈琪龙",
+      "surgeryName": "腹腔镜胆囊切除术+胆总管切开探查术(LCBDE)",
+      "nurseName": "黄洁,廖培锴",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月13日",
+      "types": [
+        "抗生素",
+        "标本留置"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "specimen": {
+          "name": "标本留置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、病理标本送检单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标本固定方法规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标本及时送检",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标本送检方式正确",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "洪秀援",
+      "patientId": "1198823",
+      "roomNumber": "B5",
+      "doctorName": "陈颖高",
+      "surgeryName": "脑清创术",
+      "nurseName": "陈程,廖春苑",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月13日",
+      "types": [
+        "患者身份",
+        "抗生素"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "洪丽敏",
+      "patientId": "1307691",
+      "roomNumber": "B6",
+      "doctorName": "陈锦鸿",
+      "surgeryName": "腹腔镜远端胃切除术",
+      "nurseName": "罗佳雄,林汉君",
+      "nurseLeader": "李芝标"
+    },
+    "qualityControl": {
+      "date": "2026年03月13日",
+      "types": [
+        "抗生素",
+        "文书书写"
+      ],
+      "content": {
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "郑江城",
+      "patientId": "1165494",
+      "roomNumber": "B4",
+      "doctorName": "陈立新",
+      "surgeryName": "腹腔镜左侧腹股沟疝修补术",
+      "nurseName": "曹娟兰,杨璇娜",
+      "nurseLeader": "郑娟如"
+    },
+    "qualityControl": {
+      "date": "2026年03月13日",
+      "types": [
+        "部位标识",
+        "文书书写"
+      ],
+      "content": {
+        "mark": {
+          "name": "部位标识",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、医生已实施手术部位标记",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、标识符号符合规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、标识与手术同意书一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、标识有效、清晰可见",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、患者/家属知晓标识意义",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        },
+        "document": {
+          "name": "文书书写",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、手术护理记录书写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术敷料单填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术安全核查表填写规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、手术转运交接单规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、手术压疮风险评估表规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、手术输血安全表规范",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "陈佳欢",
+      "patientId": "1309584",
+      "roomNumber": "B2",
+      "doctorName": "许秀霞",
+      "surgeryName": "剖宫产术",
+      "nurseName": "芮泳群, 林汉君, ",
+      "nurseLeader": "郑娟如，许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月17日",
+      "types": [
+        "患者身份",
+        "抗生素"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        },
+        "antibiotic": {
+          "name": "抗生素",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、抗生素用药双人核对并签名",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、切皮前0.5-1h给药",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、手术时间长/出血多及时追加",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、规范记录抗生素使用情况",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "patientInfo": {
+      "patientName": "秦芷熹",
+      "patientId": "1308676",
+      "roomNumber": "B8",
+      "doctorName": "张妙清",
+      "surgeryName": "外阴肿物切除术",
+      "nurseName": "林利东,林思婷",
+      "nurseLeader": "郑娟如，许伟涛"
+    },
+    "qualityControl": {
+      "date": "2026年03月17日",
+      "types": [
+        "患者身份",
+        "体位摆置"
+      ],
+      "content": {
+        "identity": {
+          "name": "患者身份",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、采用两种方法核对患者信息",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、手术通知单、病历与手腕带信息一致",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、特殊患者有身份识别标识",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、输血时双人核对",
+              "value": "不适用",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、标本送检时双人核对",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、植入物使用时双人核对",
+              "value": "不适用",
+              "remark": ""
+            }
+          }
+        },
+        "position": {
+          "name": "体位摆置",
+          "isStandard": true,
+          "items": {
+            "item1": {
+              "text": "1、体位摆置流程规范",
+              "value": "是",
+              "remark": ""
+            },
+            "item2": {
+              "text": "2、注意患者保暖",
+              "value": "是",
+              "remark": ""
+            },
+            "item3": {
+              "text": "3、患者皮肤情况完好",
+              "value": "是",
+              "remark": ""
+            },
+            "item4": {
+              "text": "4、神经保护到位",
+              "value": "是",
+              "remark": ""
+            },
+            "item5": {
+              "text": "5、肢体保持功能位",
+              "value": "是",
+              "remark": ""
+            },
+            "item6": {
+              "text": "6、使用体位防护垫",
+              "value": "是",
+              "remark": ""
+            }
+          }
+        }
+      }
+    }
   }
 ]
